@@ -1,8 +1,7 @@
-# React + Vite
+05.2024 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://safkiar-fast-react-pizza.netlify.app/
 
-Currently, two official plugins are available:
+REACT - TAILWIND
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Pizza ordering app, developed with Tailwind CSS, offers a seamless user experience for ordering pizza online. Users can easily browse through a variety of pizzas, add them to their cart and securely checkout using their preferred payment method
